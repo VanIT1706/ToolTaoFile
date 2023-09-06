@@ -1,0 +1,10 @@
+D:\LapTrinhC++\Ga Lai Lap Trinh\C#\2.WinForm1-17\slide22.1_tạo thư mục và file hàng loạt\bin\Release\slide22.1_tạo thư mục và file hàng loạt.exe.config
+D:\LapTrinhC++\Ga Lai Lap Trinh\C#\2.WinForm1-17\slide22.1_tạo thư mục và file hàng loạt\bin\Release\slide22.1_tạo thư mục và file hàng loạt.exe
+D:\LapTrinhC++\Ga Lai Lap Trinh\C#\2.WinForm1-17\slide22.1_tạo thư mục và file hàng loạt\bin\Release\slide22.1_tạo thư mục và file hàng loạt.pdb
+D:\LapTrinhC++\Ga Lai Lap Trinh\C#\2.WinForm1-17\slide22.1_tạo thư mục và file hàng loạt\obj\Release\slide22.1_tạo thư mục và file hàng loạt.csproj.AssemblyReference.cache
+D:\LapTrinhC++\Ga Lai Lap Trinh\C#\2.WinForm1-17\slide22.1_tạo thư mục và file hàng loạt\obj\Release\slide22._1_tạo_thư_mục_và_file_hàng_loạt.Form1.resources
+D:\LapTrinhC++\Ga Lai Lap Trinh\C#\2.WinForm1-17\slide22.1_tạo thư mục và file hàng loạt\obj\Release\slide22._1_tạo_thư_mục_và_file_hàng_loạt.Properties.Resources.resources
+D:\LapTrinhC++\Ga Lai Lap Trinh\C#\2.WinForm1-17\slide22.1_tạo thư mục và file hàng loạt\obj\Release\slide22.1_tạo thư mục và file hàng loạt.csproj.GenerateResource.cache
+D:\LapTrinhC++\Ga Lai Lap Trinh\C#\2.WinForm1-17\slide22.1_tạo thư mục và file hàng loạt\obj\Release\slide22.1_tạo thư mục và file hàng loạt.csproj.CoreCompileInputs.cache
+D:\LapTrinhC++\Ga Lai Lap Trinh\C#\2.WinForm1-17\slide22.1_tạo thư mục và file hàng loạt\obj\Release\slide22.1_tạo thư mục và file hàng loạt.exe
+D:\LapTrinhC++\Ga Lai Lap Trinh\C#\2.WinForm1-17\slide22.1_tạo thư mục và file hàng loạt\obj\Release\slide22.1_tạo thư mục và file hàng loạt.pdb
